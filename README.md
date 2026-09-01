@@ -422,6 +422,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
 **Stars:** ⭐⭐⭐
 
+#### pvr-inox-radar
+**Source:** [karanb192/pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar) | **Verified:** ✅
+**Description:** Maps PVR INOX showtimes across an Indian city from one plain-English ask, with counted seats-together and drive times. India, PVR INOX only.
+**Use Case:** Picking tonight's show: cheapest recliners nearby, 4 seats together for IMAX on Saturday, what's playing in 4DX in Bengaluru
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
